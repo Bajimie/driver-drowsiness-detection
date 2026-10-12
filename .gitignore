@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+face_landmarker.task
+alert_audio_cache/
+session_*/
+*.mp3
