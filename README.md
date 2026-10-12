@@ -67,7 +67,3 @@ Never commit an API key or `.env` file. The camera runs locally; OpenAI receives
 - `requirements.txt` — Python dependencies
 - `reports/research_paper.docx` — research write-up
 - `.env.example` — example configuration (do not place real credentials in it)
-
-## Portfolio notes
-
-This repository version removes a hardcoded credential and corrects voice-alert selection on state transitions. The project has been syntax-checked, but webcam and API integration have **not** been re-tested in this packaging environment.
